@@ -5,6 +5,7 @@ class Fruit{
     void fruitType(){
         System.out.println("fruitType");
     }
+    Double f = new Double();
 }
 
 class Apple extends Fruit{}
